@@ -14,10 +14,10 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;9zJBDK7D#zlw1eoujqzy-FGRvsqHb3hAYVllp00oVomI1YDUwO2g' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://dulen_lx85_user:LObb5NVYsqOpHAr8hUZWAEsVq0RphWGv@dpg-ck3b9ob6fquc739t60i0-a/dulen_lx85'
 
 
 
@@ -25,13 +25,13 @@ global.POSTGRESQL_URL = ''
 
 global.OWNER_NUMBER = '94767438882'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'DULEN SATHSARA'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
 global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
 
-global.INBOX_BLOCK = 'true' // TO Inbox Block On put true
+global.INBOX_BLOCK = 'false' // TO Inbox Block On put true
 
 global.READ_MESSAGE = "true" 
 
@@ -45,7 +45,7 @@ global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
  
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@dulen 🤹‍♂️' //sticker
 
 global.FOOTER = 'Queen Nilu 2023 '
 
@@ -55,7 +55,7 @@ global.PREFIX = '.' // Bot Prefix
 
 global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
 
-global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
+global.ALIVELOGO = 'https://i.ibb.co/jZpZsk9/HD-wallpaper-garfield-cat-garfield-cat-movies-animated-movies.jpg' // Set Alive Logo link 
 
 global.ALIVE_MESSAGE = 'default' // Set Alive Message
 
